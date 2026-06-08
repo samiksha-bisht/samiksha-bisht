@@ -8,7 +8,7 @@
 </a>
 <br clear="left"/>
 
----
+<img src="https://raw.githubusercontent.com/samiksha-bisht/samiksha-bisht/main/assets/separator.svg" width="100%">
 
 <img src="assets/hello kitty2.gif" alt="Hello Kitty" height="170" align="right" />
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Gochi+Hand&weight=400&size=33&duration=9999&pause=9999&color=FE9DBF&vCenter=true&repeat=false&width=320&height=50&lines=Tech+Stack" alt="Tech Stack" /></a><br/>
